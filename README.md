@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Dipendra Joshi
-- 🌱 I’m currently learning Dsa
 - 😄 Pronouns: he/him
 - 🚀 Exploring new things every day
 <!---
