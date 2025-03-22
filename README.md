@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Dipendra Joshi
-- 😄 Pronouns: he/him
-- 🚀 Exploring new things every day
-<!---
-dipendrajoshi24/dipendrajoshi24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Dipendra Joshi  
+
+🚀 **Exploring new things every day**   
+🎯 **Passionate about coding, problem-solving, and software development**  
+🌱 **Currently learning Data Structures, C, and Object-Oriented Programming in C++**  
+🎬 **Working on a Movie Ticket Booking System in C (DSA Project)**  
+📌 **Love to explore new technologies and improve coding skills daily**  
+😄 **Pronouns: he/him**  
+
+ 
