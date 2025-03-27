@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dipendra Joshi  
+# 👋 Hi, I’m Dipendra Joshi  **
 
 🚀 **Exploring new things every day**  
 
